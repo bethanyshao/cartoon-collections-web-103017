@@ -26,9 +26,9 @@ def find_the_cheese(foods)
       first_cheese = food
     end
   }
-  if contains_cheese 
+  if contains_cheese
     first_cheese
-  else 
+  else
     nil
-  end 
+  end
 end
